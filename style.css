@@ -4,13 +4,13 @@ body {
     margin: 0;
     padding: 0;
     background: linear-gradient(to right, #e3f2fd, #bbdefb);
-    color: #FF6F1E;
+    color: #000000;
     text-align: center;
 }
 
 /* Cabeçalho mais moderno */
 header {
-    background: linear-gradient(135deg, #FF6F1E, #1976d2);
+    background: linear-gradient(135deg, #FF6F1E, #b6278d);
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -49,7 +49,7 @@ main {
 }
 
 main h1 {
-    color: #0d47a1;
+    color: #542f0e;
 }
 
 /* Rodapé */
