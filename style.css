@@ -72,8 +72,8 @@ footer {
 }
 
 .planos img {
-    width: 200px;
-    border-radius: 12px;
+    width: 450px;
+    border-radius: 22px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
     transition: transform 0.3s, box-shadow 0.3s;
 }
